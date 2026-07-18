@@ -7,3 +7,4 @@ echo "Running Container..."
 docker run -d -p 8080:80 --name my-nginx simple-nginx-app
 
 echo "Application is running at http://localhost:8080"
+echo "hello"
