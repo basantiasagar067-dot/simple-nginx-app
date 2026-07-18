@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Simple Nginx Docker App
 
 A beginner Docker project that serves a static HTML page using Nginx.
@@ -53,3 +54,6 @@ docker rm -f my-nginx
 ---
 
 Created while learning DevOps.
+=======
+
+>>>>>>> 886d2b29191881311e8fde59327bed4df5236235
